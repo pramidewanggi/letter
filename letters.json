@@ -1,0 +1,10 @@
+{
+  "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+  "rina-7k2": {
+    "name": "Rina",
+    "message": "Replace this with your own message for Rina."
+  }
+}
