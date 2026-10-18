@@ -6,5 +6,9 @@
   "rina-7k2": {
     "name": "Rina",
     "message": "Replace this with your own message for Rina."
-  }
+  },
+  "suzumetomari": {
+    "name": "Suzume",
+    "message": "Don't forget to close the door."
+  },
 }
