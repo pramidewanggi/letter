@@ -75,54 +75,76 @@
     "name": "David Dewanto",
     "message": "I can't thank you enough for everything you did for me. All the free rides, the deep talks, the treats, I owe you a lot, and I wouldn't be me if it weren't for you. Thank you for being in my life."
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "jiroredflag": {
+    "name": "Aul",
+    "message": "Aul, thank you for being the most positive friend i've had! I am so happy to see where you are right now, and I am sure I can see many good things forward from you. Lancar nikahnya!"
   },
-  "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "cewekbanteng": {
+    "name": "Bibing",
+    "message": "SUWON YO sudah menjadi koncoku seng paleng BANTENG, jujur hidupku terhibur dengan kisah2mu itu, jadi lanjutkan (jokes aside, thank you for being my friend!"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "bombasticsideye": {
+    "name": "Icha",
+    "message": "Icha cantik terima kasih yah sudah menjadi temanku yang MANTAB, I am glad I have you in my life, and please jangan jadi cewek BANTENG"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "putri": {
+    "name": "Kak Putri",
+    "message": "Kak Putri, thank you yah for wishing me happy bday! So happy to be able to meet you lagi di Jakarta, and I look forward for your wedding! Lancar lancar yaah~"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
-  },"default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "blide": {
+    "name": "Blide",
+    "message": "Blide, thank you yah for being the brother figure I alwyas need in life. I am so so so happy to have blide in my life, the kindest soul I met. I hope that PS4 or 5 next year! Lancar2 yaah"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "rathaska": {
+    "name": "Ata",
+    "message": "Ata, thank you ya for being my friend. I rely on you a lot pas di shopee and I am so happy to know you got promoted! I wish you the best for your career, and thank you ya for being in my life!! ILYY"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "keneeshachew": {
+    "name": "Keni",
+    "message": "Kennii thanks for being my partner in crime! I miss you like A LOTTT our times pas kita di Shopee. I can't wait for being in Bandung with you! I hope for the best for you, sweetheart!"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
-  },"default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "luhut": {
+    "name": "UUT",
+    "message": "Luhut! Thank you so much for being one of my best friend in life! I know kita udah lama ga catch up but I miss you so much! I enjoyed all of your content and I wish you shine brighter! Catch Up Soon!"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "laksanoodle": {
+    "name": "Lakshmi",
+    "message": "Pretty girl thank you so much for being my friend! You are one little sister that I adore so much and I am really to see how you shine through your content. I hope we catch up again yaa, cantik! Love u!"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "fadhiar": {
+    "name": "Dhiar",
+    "message": "Dhiar, for what it takes, I am glad we met again in NIQ. Being a coffee x musical geeks, I think we connect a lot. I hope we'll talk more in the future, and watch musical together. Thank you for being my friend"
   },
-    "default": {
-    "name": "[friend's name]",
-    "message": "[Your thank-you message, two or three short lines]"
+    "alyciasitorus": {
+    "name": "Cya",
+    "message": "Cya, though kita baru kenal sebulan, it already feels like a year. I am really glad to have a friend who has the same energy level, and you're so kind. Thank you thank you thank you, for being my office friend!"
+  },
+    "umindokceplok": {
+    "name": "Rara",
+    "message": "Rara, you've seen me though my worst period and my best, thank you for accepting me despite all my flaws. You feel like an older sister in the group, that we rely a lot. Thank you for taking that role, I always feels safe with you."
+  },
+    "bebysukamerem": {
+    "name": "Bibi",
+    "message": "Bibi, thank you for always initiating gathering buat anak2 CI. Kayaknya kalo gaada kamu, aku bakal lost contact HAHAH. Thank you for being my friend for 11 years, love you!"
+  },
+    "shafatikungantajam": {
+    "name": "Shafa",
+    "message": "Shafaa terima kasih udah jadi the most unhinged yet also sweet friend in the group! Makasih ya selalu mau pas diajak kemana-mana jugaa! I am so happy we've been friend for so long, and I hope we continue to be so!"
+  },
+    "amelpotato": {
+    "name": "Amel",
+    "message": "Amel, thank you so much for being the kindest, purest, and sweetest soul I've ever met. I am really happy to have you in my life, amel. I hope you very best to become a docter, like your dream. I believe you can. Ketemu lagi soon ya!"
+  },
+    "naechingu": {
+    "name": "Nora",
+    "message": "Noraa thank you yaa for being the friend with same level energy as mine! I enjoy our banter in konglish so so much! I hope the best for your TOPIK score, and can't wait for our next karaoke session!"
+  },
+    "mikelix": {
+    "name": "Mikeylla",
+    "message": "Mikee thank you for being my friend for 11 years! I really wish the best for your career walau kita jauh HUHUHU plis kalau ke jakarta bilang ya, we catch up again soon, thanks loove!"
+  },
+    "kawancucimata": {
+    "name": "Cia!",
+    "message": "CIA thanks for being my tom to my jerry since day 1. KANGEN LOH kayaknya kita udah ga ketemu dua tahunan gt deh sejak your sidang. But I am sure you'll do great, and I can't wait to see you being a great doctor like your dream. Catch up soon!"
   }
 }
