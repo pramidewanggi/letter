@@ -3,12 +3,48 @@
     "name": "[friend's name]",
     "message": "[Your thank-you message, two or three short lines]"
   },
-  "lenoredove": {
-    "name": "Lenore",
-    "message": "I love you like all-fire"
+  "michellenatasya": {
+    "name": "Micel",
+    "message": "I know we ended up being friend in unexpected circumstances, but I am glad I have you in my hard days. Thank you for being in my life, and I wish we will continue become friends, til the end <3"
   },
-  "suzumetomari": {
-    "name": "Suzume",
-    "message": "Don't forget to close the door."
+  "alficopermana": {
+    "name": "Fico",
+    "message": "Thank you fico, for being in my life. I know we didn't end in the best circumstances, but I am still greatful for all the things you gave me. Makasih yaa udah inget ultahku! (sori banget aku ga ngucapin kamu HAHA), I hope you the best for your life, work, love, and everything in between."
   }
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
+    "default": {
+    "name": "[friend's name]",
+    "message": "[Your thank-you message, two or three short lines]"
+  },
 }
